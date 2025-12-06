@@ -6,56 +6,14 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Peer-reviewed Journal Articles 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fong, J.H., Ba, Y. and **Chen, Z.**, 2025. Who supports carbon pricing? Older adults’ financial literacy and attitudes toward carbon taxation. *The Journal of the Economics of Ageing*. DOI: [10.1016/j.jeoa.2025.100595](https://doi.org/10.1016/j.jeoa.2025.100595)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Wang, H., **Chen, Z.**, Xu, K. and Liang, W., 2024. Effectiveness of targeted financial aid on disability welfare for the ageing population in China: A quasi-experiment study. *Journal of Global Health*. DOI: [10.7189/jogh.14.04222](https://doi.org/10.7189/jogh.14.04222)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Wang, H., **Chen, Z.**, Li, Z., He, X. and Subramanian, S.V., 2024. How economic development affects healthcare access for people with disabilities: A multilevel study in China. *SSM-Population Health*. DOI: [10.1016/j.ssmph.2023.101594](https://doi.org/10.1016/j.ssmph.2023.101594)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Book Chapters
+
+* Wang, H., Xu, K. and **Chen, Z.**, 2024. City Population Decline and Disability Public Service Equity: Evidence from China. In *Social Equity and Public Management Theory*. Routledge. DOI: [10.4324/9781032694658-11](https://doi.org/10.4324/9781032694658-11) 
