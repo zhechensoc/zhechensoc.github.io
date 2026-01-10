@@ -9,6 +9,6 @@ redirect_from:
 
 I am a Ph.D. student at Duke University in the [Department of Sociology](https://sociology.duke.edu/) and an affiliated graduate student of the [Duke University Population Research Institute (DUPRI)](https://dupri.duke.edu/). 
 
-My research focuses on population health, aging, and health policy.
+My research focuses on population health, aging, and health policy. A list of my publications can be found [here](/research.html/).
 
 I will be presenting my research at [PAA 2026](https://www.populationassociation.org/paa2026/home) in St. Louis, Missouri.
