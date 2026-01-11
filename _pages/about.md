@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Duke University in the [Department of Sociology](https://sociology.duke.edu/) and an affiliated graduate student of the [Duke University Population Research Institute (DUPRI)](https://dupri.duke.edu/). 
+I am a Ph.D. student at Duke University in the [Department of Sociology](https://sociology.duke.edu/) and affiliated with the [Duke University Population Research Institute (DUPRI)](https://dupri.duke.edu/). 
 
-With an interdisciplinary background in [sociology and public policy](resume.md), my research focuses on <ins>population health, aging, and health policy</ins>. 
+My research focuses on population health, aging, and health policy. 
 
 A list of my publications can be found [here](research.md).
 
