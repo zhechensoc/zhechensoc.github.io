@@ -12,5 +12,3 @@ I am a Ph.D. student at Duke University in the [Department of Sociology](https:/
 My research focuses on population health, aging, and health policy. 
 
 A list of my publications can be found [here](research.md).
-
-I will be presenting my research at [PAA 2026](https://www.populationassociation.org/paa2026/home) in St. Louis, Missouri.
