@@ -21,4 +21,4 @@ My full CV is available upon request at <ins>zhe[dot]chen[at]duke[dot]edu</ins>.
 
 # Skills
 * Languages: English; Chinese (native)
-* Programming & Software: Stata; R; SPSS; Python; Git; UCINET; NVivo; Tableau
+* Programming & Software: Stata; R; Git; Python; SPSS
