@@ -8,6 +8,9 @@ author_profile: true
 
 # Peer-reviewed Journal Articles 
 
+* **Chen, Z.**, Wang, S. Forthcoming. Reconfiguring Social Integration from Family to Community: The Causal Impact of Aging in Place on Chinese Older Adults’ Cognitive Health. 
+*Chinese Sociological Review*. 
+
 * Wang, H., **Chen, Z.**, 2026. Aging, Disabilities, and Healthcare Utilisation: How Economic Growth Affects Public Service Inequity. *Social Policy and Society*. DOI: [10.1017/S1474746425101292](https://doi.org/10.1017/S1474746425101292).
 
 * Fong, J.H., Ba, Y. and **Chen, Z.**, 2025. Who supports carbon pricing? Older adults’ financial literacy and attitudes toward carbon taxation. *The Journal of the Economics of Ageing*. DOI: [10.1016/j.jeoa.2025.100595](https://doi.org/10.1016/j.jeoa.2025.100595)
