@@ -8,8 +8,8 @@ author_profile: true
 
 # Peer-reviewed Journal Articles 
 
-* **Chen, Z.**, Wang, S. Forthcoming. Reconfiguring Social Integration from Family to Community: The Causal Impact of Aging in Place on Chinese Older Adults’ Cognitive Health. 
-*Chinese Sociological Review*. 
+* **Chen, Z.**, Wang, S. 2026. Reconfiguring Social Integration from Family to Community: The Causal Impact of Aging in Place on Chinese Older Adults’ Cognitive Health. 
+*Chinese Sociological Review*. DOI: [10.1080/21620555.2026.2752490](https://doi.org/10.1080/21620555.2026.2752490).
 
 * Wang, H., **Chen, Z.**, 2026. Aging, Disabilities, and Healthcare Utilisation: How Economic Growth Affects Public Service Inequity. *Social Policy and Society*. DOI: [10.1017/S1474746425101292](https://doi.org/10.1017/S1474746425101292).
 
