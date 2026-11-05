@@ -11,7 +11,8 @@ My full CV is available upon request at <ins>zhe[dot]chen[at]duke[dot]edu</ins>.
 
 # Education
 * Ph.D. Student in Sociology, Duke University, USA (since 2025)
-    * Affiliated with the Duke University Population Research Institute (DUPRI)  
+    * Affiliated with the Duke University Population Research Institute (DUPRI)
+    * Affiliated with the International Max Planck Research School for Population, Health and Data Science (IMPRS-PHDS) (since 2026) 
 * MSc in Sociology, The London School of Economics and Political Science, UK
 * LL.B. in Sociology, Southeast University, China
 
